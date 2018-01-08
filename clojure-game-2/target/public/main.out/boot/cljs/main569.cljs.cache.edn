@@ -1,0 +1,1 @@
+{:rename-macros {}, :renames {}, :use-macros {}, :excludes #{}, :name boot.cljs.main569, :imports nil, :requires {adzerk.boot-reload.init553 adzerk.boot-reload.init553, clojure-game-2.core clojure-game-2.core}, :uses nil, :require-macros nil, :doc nil}

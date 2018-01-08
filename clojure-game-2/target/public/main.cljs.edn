@@ -1,0 +1,1 @@
+{:require [clojure-game-2.core adzerk.boot-reload.init553], :init-fns [], :compiler-options {:infer-externs true}}
